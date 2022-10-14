@@ -1,6 +1,7 @@
-# EIT
+# Deep Transformers Thirst for Comprehensive-Frequency Data
 
-cited by
+# Cited by
+```
 @ARTICLE{2022arXiv220307116X,
        author = {{Xia}, Rui and {Xue}, Chao and {Deng}, Boyu and {Wang}, Fang and {Wang}, Jingchao}
         title = "{Deep Transformers Thirst for Comprehensive-Frequency Data}",
@@ -16,4 +17,5 @@ archivePrefix = {arXiv},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2022arXiv220307116X},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
+```
 
