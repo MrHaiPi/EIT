@@ -57,5 +57,5 @@ To train EIT on ImageNet on two nodes with 4 gpus for 300 epochs run:
 # node0, ip="192.168.1.32"
 python -m torch.distributed.launch --nproc_per_node=2 --nnodes=2 --node_rank=0 --master_addr="192.168.1.32" --master_port=12355 train.py
 # node1, ip="192.168.1.31"
-python -m torch.distributed.launch --nproc_per_node=2 --nnodes=2 --node_rank=0 --master_addr="192.168.1.32" --master_port=12355 train.py
+python -m torch.distributed.launch --nproc_per_node=2 --nnodes=2 --node_rank=1 --master_addr="192.168.1.32" --master_port=12355 train.py
 ```
