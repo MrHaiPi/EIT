@@ -24,7 +24,7 @@ archivePrefix = {arXiv},
 
 We provide baseline EIT models pretrained on ImageNet 2012.
 
-| name | acc@1 | acc@5 | #params | #FLOPs | url |
-| --- | --- | --- | --- | --- |
-| EIT16/4/3-Mini | 70.0 | 89.6 | 3.5M | [model](https://github.com/MrHaiPi/EIT/model/eit-16-4-3-mini/best_checkpoint.pth) |
+| name | acc@1 | acc@5 | #params | #FLOPs | url |     
+| --- | --- | --- | --- | --- |     
+| EIT16/4/3-Mini | 70.0 | 89.6 | 3.5M | [model](https://github.com/MrHaiPi/EIT/model/eit-16-4-3-mini/best_checkpoint.pth) |     
 
