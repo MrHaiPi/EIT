@@ -1,6 +1,6 @@
 # EIT
 
-# cited by
+cited by
 @ARTICLE{2022arXiv220307116X,
        author = {{Xia}, Rui and {Xue}, Chao and {Deng}, Boyu and {Wang}, Fang and {Wang}, Jingchao}
         title = "{Deep Transformers Thirst for Comprehensive-Frequency Data}",
