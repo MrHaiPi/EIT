@@ -26,10 +26,10 @@ We provide baseline EIT models pretrained on ImageNet 2012.
 
 | name | acc@1 | acc@5 | #FLOPs | #params | url |     
 | --- | --- | --- | --- | --- | --- | 
-| EIT16/4/3-Mini | 70.0 | 89.6 | 1.73G | 3.5M | [model](https://github.com/MrHaiPi/EIT/model/eit-16-4-3-mini/best_checkpoint.pth) |  
-| EIT16/4/3-Tiny | 78.1 | 94.0 | 3.84G | 8.9M | [model](https://github.com/MrHaiPi/EIT/model/eit-16-4-3-tiny/best_checkpoint.pth) |  
-| EIT16/4/3-Base | 80.6 | 95.3 | 6.52G | 16.0M | [model](https://github.com/MrHaiPi/EIT/model/eit-16-4-3-base/best_checkpoint.pth) |  
-| EIT16/4/3-Large | 81.8 | 95.6 | 10.0G | 25.3M | [model](https://github.com/MrHaiPi/EIT/model/eit-16-4-3-large/best_checkpoint.pth) |  
+| EIT16/4/3-Mini | 70.0 | 89.6 | 1.73G | 3.5M | [model](https://github.com/MrHaiPi/EIT/tree/main/model/eit-16-4-3-mini/best_checkpoint.pth) |  
+| EIT16/4/3-Tiny | 78.1 | 94.0 | 3.84G | 8.9M | [model](https://github.com/MrHaiPi/EIT/tree/main/model/eit-16-4-3-tiny/best_checkpoint.pth) |  
+| EIT16/4/3-Base | 80.6 | 95.3 | 6.52G | 16.0M | [model](https://github.com/MrHaiPi/EIT/tree/main/model/eit-16-4-3-base/best_checkpoint.pth) |  
+| EIT16/4/3-Large | 81.8 | 95.6 | 10.0G | 25.3M | [model](https://github.com/MrHaiPi/EIT/tree/main/model/eit-16-4-3-large/best_checkpoint.pth) |  
 
 
 # Data preparation
