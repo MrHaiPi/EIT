@@ -32,7 +32,7 @@ We provide baseline EIT models pretrained on ImageNet 2012.
 | EIT16/4/3-Large | 81.8 | 95.6 | 10.0G | 25.3M | [model](https://github.com/MrHaiPi/EIT/model/eit-16-4-3-large/best_checkpoint.pth) |  
 
 
-## Data preparation
+# Data preparation
 
 Download and extract ImageNet train and val images from http://image-net.org/.
 The directory structure is the standard layout for the torchvision [`datasets.ImageFolder`](https://pytorch.org/docs/stable/torchvision/datasets.html#imagefolder), and the training and validation data is expected to be in the `train/` folder and `val` folder respectively:
