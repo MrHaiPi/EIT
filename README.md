@@ -9,7 +9,7 @@ If you find this work or code is helpful in your research, please cite:
 @article{xia2022eit,
   title={Deep Transformers Thirst for Comprehensive-Frequency Data},
   author = {{Xia}, Rui and {Xue}, Chao and {Deng}, Boyu and {Wang}, Fang and {Wang}, Jingchao},
-  journal={arXiv preprint arXiv:2203.07116},
+  journal={arXiv preprint arxiv.org/abs/2203.07116v2},
   year={2022}
 }
 ```
