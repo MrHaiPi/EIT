@@ -6,7 +6,7 @@ Current researches indicate that the introduction of inductive bias (IB) can imp
 # Results
 The results of training on ImageNet 2012.
 
-![Alt text](https://github.com/MrHaiPi/EIT/Imagenet1kAcc.pdf)
+![](https://github.com/MrHaiPi/EIT/imagenet1k.jpg)
 
 # Citation
 If you find this work or code is helpful in your research, please cite:
